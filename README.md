@@ -12,8 +12,7 @@
 
 ## 
 
-## This repository showcases my work in data analytics, statistical modeling, and machine learning.
-##I apply quantitative methods to real-world datasets using tools such as Python, SQL, R, Tableau, and statistical techniques including hypothesis testing, regression analysis, and model evaluation.
+## This repository showcases my work in data analytics, statistical modeling, and machine learning. I apply quantitative methods to real-world datasets using tools such as Python, SQL, R, Tableau, and statistical techniques including hypothesis testing, regression analysis, and model evaluation.
 
 ## Each project includes:
 
@@ -137,5 +136,6 @@
 * ###  	Google Data Analytics Professional Certificate (2025)
 
 ### 
+
 
 
