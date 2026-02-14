@@ -1,4 +1,4 @@
-# **Data Analytics Portfolio**
+# **Data Analytics & Data Science Portfolio**
 
 
 
@@ -122,6 +122,8 @@
 
 * ###  	Spreadsheets  → Exploratory analysis \& initial cleaning
 * ###  	SQL → Cleaning, joining, aggregating, filtering
+* ###   Python -> Data analysis, statistical modeling, and machine learning
+* ###   Statistics -> ypothesis testing, p-values, confidence intervals, ANOVA, regression analysis 
 * ###  	Tableau → Dashboards \& visualization
 * ###  	Git/GitHub → Version control, documentation
 * ###  	R → Optional advanced analysis
@@ -137,6 +139,7 @@
 * ###  	Google Data Analytics Professional Certificate (2025)
 
 ### 
+
 
 
 
